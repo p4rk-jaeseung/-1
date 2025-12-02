@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MINIMAL CLOTHING</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="main-header">
+        <h1 class="logo">MINIMAL</h1>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#">SHOP</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="content">
+        <section class="hero-section">
+            <h2>Timeless Essentials</h2>
+            <p>미니멀리즘 디자인, 최고의 품질. 오직 당신을 위해.</p>
+            <a href="#" class="btn">전체 상품 보기</a>
+        </section>
+
+        <section class="product-grid">
+            <div class="product-item">
+                <div class="product-image">[상품 이미지 1]</div>
+                <h3>Classic T-Shirt</h3>
+                <p>₩ 35,000</p>
+            </div>
+            <div class="product-item">
+                <div class="product-image">[상품 이미지 2]</div>
+                <h3>Linen Shirt</h3>
+                <p>₩ 69,000</p>
+            </div>
+            <div class="product-item">
+                <div class="product-image">[상품 이미지 3]</div>
+                <h3>Wide Slacks</h3>
+                <p>₩ 89,000</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2025 MINIMAL CLOTHING. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
